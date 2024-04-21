@@ -8,8 +8,6 @@ DatatablesInlineEditor is a JavaScript library that provides inline editing func
 - **Customizable**: Easily customize the editor according to your application's needs.
 - **Event Handling**: Support for event handling, allowing you to hook into various stages of the editing process.
 
-Certainly! Here's how you can integrate the provided example into the Usage section of the Readme.md:
-
 ### Usage
 
 To use DatatablesInlineEditor in your project, follow these steps:
