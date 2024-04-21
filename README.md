@@ -38,7 +38,7 @@ To use DatatablesInlineEditor in your project, follow these steps:
            columns: [
                { data: 'name' },
                { data: 'age' },
-               { data: 'email' },
+               { data: 'date' },
                { data: 'active', render: function(data) { return data ? 'Yes' : 'No'; } }
            ]
        });
@@ -48,7 +48,7 @@ To use DatatablesInlineEditor in your project, follow these steps:
            fields: [
                { name: 'name', type: 'text' },
                { name: 'age', type: 'numeric' },
-               { name: 'email', type: 'email' },
+               { name: 'date', type: 'date' },
                { name: 'active', type: 'checkbox' }
            ],
            url: 'your-update-endpoint-url',
