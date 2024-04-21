@@ -113,4 +113,5 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 For support or inquiries, please contact [xonzonex@gmail.com](mailto:xonzonex@gmail.com).
 
-
+### Donate (Coffee)
+BTC bc1qnqu7zl2huqmam9703jc560jpkzxkny37jllz8m
