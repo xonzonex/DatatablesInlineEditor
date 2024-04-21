@@ -52,7 +52,8 @@ To use DatatablesInlineEditor in your project, follow these steps:
                { name: 'active', type: 'checkbox' }
            ],
            url: 'your-update-endpoint-url',
-           method: 'PUT'
+           method: 'PUT',
+           data: {ourView: true},
            // Additional options as needed
        };
 
