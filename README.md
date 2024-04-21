@@ -71,10 +71,6 @@ To use DatatablesInlineEditor in your project, follow these steps:
 4. **Customize Event Handling**: Customize event handling as per your requirements. You can subscribe to various events such as 'cell.open', 'cell.click', 'cell.completeEdit', etc., using the `on` method, and trigger custom events using the `trigger` method. Use the `off` method to remove event handlers when necessary.
 
 Make sure to replace `'your-data-endpoint-url'` and `'your-update-endpoint-url'` with the actual URLs of your server-side endpoints.
-``` 
-
-This will provide a comprehensive guide for users to integrate DatatablesInlineEditor into their projects and customize event handling according to their needs.
-   ```
 
 ### Options
 
