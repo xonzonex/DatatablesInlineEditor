@@ -53,7 +53,7 @@ To use DatatablesInlineEditor in your project, follow these steps:
            ],
            url: 'your-update-endpoint-url',
            method: 'PUT',
-           data: {ourView: true},
+           data: {youSendData: true},
            // Additional options as needed
        };
 
